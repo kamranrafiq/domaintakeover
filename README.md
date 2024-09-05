@@ -1,3 +1,3 @@
-# vanity.employee.store.rockstargames.com
+# test
 
 ## Subdomain takeover!!
